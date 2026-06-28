@@ -4,7 +4,7 @@
 > A structured review of 12 studies (2022 to 2025) on LLM-assisted software
 > quality assurance, and what they collectively miss.
 
-**Paper:** [`paper/narrative-driven-qa-genai.pdf`](paper/Narrative_Driven_QA_with_GenAI__Enhancing_Reviews__Documentation__and_Epic_Traceability.pdf)
+**Paper:** [`paper/narrative-driven-qa-genai.pdf`](paper/narrative-driven-qa-genai.pdf)
 **Authors:** Shubhan Singh, Jagdish Shukla, Tejaswini J. Chavan
 *STME, NMIMS Navi Mumbai · 2026*
 
